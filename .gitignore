@@ -1,1 +1,8 @@
 .SLIDES/
+
+#outputs
+*.o
+*.exe
+
+#compilacao
+*makefile
